@@ -8,7 +8,7 @@ I've been learning in Fullstack Javascript Bootcamp
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com)
-* 🧠  I'm learning React.JS and Node.JS
+* 🧠  I'm learning MERN Stack 
 
 ### Skills
 
