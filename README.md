@@ -7,7 +7,7 @@ Full Stack Developer
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com)
 * 🧠  I'm learning a new stack and enjoy coding
-* my portfolio : https://react-resume-page.vercel.app/about
+* my portfolio : https://react-resume-page.vercel.app/
 
 ### Skills
 
