@@ -1,12 +1,12 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rachaphol
 =================================================================================================================================
 
-Full Stack Developer 
+Junior Full Stack Developer 
 --------------------------
 
 * 🌍  I'm based in Bangkok
 * ✉️  You can contact me at [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com)
-* 🧠  I'm learning a new stack and enjoy coding
+* 🧠  enjoy coding and need more sleep 
 * my portfolio : https://react-resume-page.vercel.app/
 
 ### Skills
