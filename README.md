@@ -1,34 +1,182 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rachaphol
-=================================================================================================================================
+<div align="center">
 
-Junior Full Stack Developer 
---------------------------
+![Coding Farm Banner](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
 
-* 🌍  I'm based in Bangkok
-* ✉️  You can contact me at [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com)
-* 🧠  enjoy coding and need more sleep 
-* my portfolio : https://react-resume-page.vercel.app/
+# 🌾 Welcome to Rachaphol's Coding Farm! 🏡
 
-### Skills
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%8C%B1;Cultivating+Code+Since+Day+One+%F0%9F%9A%9C;From+Bangkok+with+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Perfect+Harvest+%E2%98%95)
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored-dark.svg" width="36" height="36" alt="Premiere Pro" /></a>
-</p>
+</div>
 
+```
+🌅 A new day begins on the farm...
+🐓 The roosters are crowing, and it's time to tend to the code crops!
+```
 
-### Socials
+## 👨‍🌾 Meet the Farmer
+**Level:** Junior Full Stack Developer 🌱  
+**Location:** Bangkok Village, Thailand 🏘️  
+**Farm Established:** Still growing! 📈  
+**Contact the Farmer:** [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com) 📮  
+**Farm Showcase:** [Visit My Digital Farm](https://react-resume-page.vercel.app/) 🌐  
 
-</picture> </a> <a href="https://www.facebook.com/mos.jrpt" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/naiplawan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> </picture> </a> <a href="https://www.linkedin.com/in/rachaphol-plookaom" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="http://www.medium.com/@rachaphol.plo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /> </picture> </a></p>
+*"I enjoy cultivating code and... definitely need more sleep between harvest seasons!"* ☕🌙
 
+---
 
-### Badges
+## 🎮 Farming Stats & Achievements
 
-<b>My GitHub Stats</b>
+<div align="center">
 
-<a href="http://www.github.com/naiplawan"><img src="https://github-readme-stats.vercel.app/api?username=naiplawan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="naiplawan's GitHub stats" /></a>
+### 🏆 Current Season Stats
+![Rachaphol's GitHub Stats](https://github-readme-stats.vercel.app/api?username=naiplawan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0f1419&title_color=7aa2f7&icon_color=bb9af7&text_color=a9b1d6)
 
-<a href="http://www.github.com/naiplawan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=naiplawan&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+### 🔥 Coding Streak (Days on the Farm)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=naiplawan&theme=tokyonight&hide_border=true&background=0f1419&ring=7aa2f7&currStreakLabel=bb9af7)
 
+### 🌱 Crop Diversity (Languages Grown)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naiplawan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f1419&langs_count=10&title_color=7aa2f7)
 
-<a href="https://github.com/naiplawan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naiplawan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</div>
 
+---
+
+## 🌾 My Coding Crops & Tools
+
+### 🌐 Frontend Garden (Web Crops)
+```
+🌻 JavaScript      ████████████ 95% (Master Level)
+🌷 TypeScript      ███████████  90% (Advanced)
+🌺 React           ████████████ 95% (Master Level)  
+🌸 Next.js         ██████████   85% (Advanced)
+🌼 HTML5           ████████████ 100% (Perfect Harvest!)
+🌹 CSS3            ████████████ 95% (Master Level)
+```
+
+### 📱 Mobile Orchard (App Fruits)
+```
+🍎 Flutter         ███████      70% (Growing Strong!)
+🥝 Dart            ███████      70% (Fresh Harvest!)
+```
+
+### 🛠️ Styling Greenhouse (Design Tools)
+```
+🌿 Tailwind CSS    ████████████ 95% (Master Gardener)
+🍀 Chakra UI       ██████████   85% (Advanced)
+☘️  Material UI     ██████████   85% (Advanced)
+```
+
+### 🏗️ Backend Barn (Server Farm)
+```
+🥔 Node.js         ████████████ 90% (Excellent Crop!)
+🌽 Express.js      ████████████ 90% (Golden Corn!)
+🐍 Python          ██████████   80% (Slithering Growth)
+🐴 Django          ████████     75% (Steady Workhorse)
+🐹 Golang          ██████       60% (New Pet on the Farm!)
+🕸️ GoFiber         █████        50% (Learning to Spin!)
+```
+
+### 🗄️ Storage Silo (Databases)
+```
+🍃 MongoDB         ████████████ 90% (Leafy Database!)
+🐘 PostgreSQL      ██████████   80% (Strong as an Elephant!)
+⚡ Supabase        ████████     75% (Lightning Fast!)
+```
+
+### 🔧 Farm Equipment (Development Tools)
+```
+🪓 Git             ████████████ 95% (Master Tool!)
+⚡ Vite            ██████████   85% (Speedy Harvester!)
+📊 R               ███████      65% (Data Analysis Seeds)
+🎨 Photoshop       ████████     75% (Creative Paintbrush)
+🎬 Premiere Pro    ███████      65% (Video Magic!)
+```
+
+---
+
+## 🏆 Achievements Unlocked
+
+```
+🌟 Code Farmer        - Written 1000+ lines of code
+🔥 Streak Master      - Maintained coding streak for 30+ days  
+🌱 Full Stack Sprout  - Mastered both frontend and backend
+📱 Mobile Gardener    - Started growing mobile apps
+🐹 Gopher Tamer       - Learning the ways of Go
+🦋 Flutter Whisperer  - Making apps take flight
+☕ Coffee Addict      - Survived on caffeine and determination
+🌙 Night Owl          - Coded through countless late nights
+```
+
+---
+
+## 🎯 Current Farm Projects & Quests
+
+```
+🔭 Main Quest:     Building full-stack web applications
+🌱 Side Quest:     Mastering Flutter & Golang ecosystems  
+🤝 Co-op Mode:     Looking for coding companions for open source adventures
+💬 Help Wanted:    Ask me about React, Node.js, or starting your coding journey!
+⚡ Fun Fact:       Best code grows with good coffee and minimal sleep! ☕💻
+```
+
+---
+
+## 🌐 Connect & Trade with Other Farmers
+
+<div align="center">
+
+![Handshake](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/handshake.gif)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn_Village-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rachaphol-plookaom)
+[![GitHub](https://img.shields.io/badge/Code_Repository-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/naiplawan)
+[![Medium](https://img.shields.io/badge/Story_Tavern-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://www.medium.com/@rachaphol.plo)
+[![Facebook](https://img.shields.io/badge/Social_Square-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mos.jrpt)
+
+</div>
+
+---
+
+## 🌸 Daily Farm Report
+
+<div align="center">
+
+![Working](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/working.gif)
+
+</div>
+
+```
+🌅 Morning Routine:   Coffee ☕ → Code 💻 → More Coffee ☕
+🌞 Daytime Tasks:     Tending to React components and debugging Node.js crops
+🌙 Evening Activities: Learning new frameworks and planning tomorrow's harvest
+🛌 Sleep Schedule:    When the bugs are finally fixed... someday! 😴
+```
+
+---
+
+## 🎮 Game Stats Summary
+
+<div align="center">
+
+![Coding](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/coding.gif)
+
+![Profile Views](https://komarev.com/ghpvc/?username=naiplawan&color=7aa2f7&style=for-the-badge&label=Farm+Visitors)
+
+```
+🏡 Welcome to my coding farm! 🏡
+Every commit is a seed planted, every pull request is a harvest shared.
+Feel free to explore my repositories and let's grow something amazing together! 🌱✨
+
+Thanks for visiting! May your code compile and your coffee stay hot! ☕💚
+```
+
+![Thank You](https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/src/thank-you.gif)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌾 *"Happy coding, happy farming!"* 🌾
+
+</div>
