@@ -1,7 +1,5 @@
 <div align="center">
 
-![Coding Farm Banner](https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966)
-
 # 🌾 Welcome to Rachaphol's Coding Farm! 🏡
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&width=600&lines=Junior+Full+Stack+Developer+%F0%9F%8C%B1;Cultivating+Code+Since+Day+One+%F0%9F%9A%9C;From+Bangkok+with+%E2%9D%A4%EF%B8%8F;Coffee+%2B+Code+%3D+Perfect+Harvest+%E2%98%95)
