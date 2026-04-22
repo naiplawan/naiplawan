@@ -15,7 +15,7 @@
 **Home Town:** Bangkok Region, Thailand 📍  
 **Specialization:** Frontend & Cross-Platform Evolution 🧬  
 **Trainer Code:** [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com) 📮  
-**PokéDex Website:** [Digital Resume Portfolio](https://react-resume-page.vercel.app/) 🌐
+**PokéDex Website:** [Digital Resume Portfolio](https://rachaphol.vercel.app/) 🌐
 
 *"I don't just catch bugs; I refactor them into features. Ready for the next Gym Challenge\!"* ⚡🎮
 
