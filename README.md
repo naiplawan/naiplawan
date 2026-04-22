@@ -1,8 +1,5 @@
-
-
-\<div align="center"\>
 ## 🧢 Welcome to Rachaphol's Pokémon Lab\! 🏟️
-\</div\>
+
 
 ```
 ✨ A wild BUG appeared!
