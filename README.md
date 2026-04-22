@@ -1,106 +1,119 @@
-## 🧢 Welcome to Rachaphol's Pokémon Lab\! 🏟️
+## 📟 Pokédex Entry #029 — RACHAPHOL
 
-
-```
-✨ A wild BUG appeared!
-🔴 Rachaphol used DEBUG... It's super effective! 
-```
-
-## 🧑‍🔬 Trainer Card
-
-**Rank:** Mid-Level Full Stack Developer 🛡️  
-**Home Town:** Bangkok Region, Thailand 📍  
-**Specialization:** Frontend & Cross-Platform Evolution 🧬  
-**Trainer Code:** [rachaphol.plo@gmail.com](mailto:rachaphol.plo@gmail.com) 📮  
-**PokéDex Website:** [Digital Resume Portfolio](https://rachaphol.vercel.app/) 🌐
-
-*"I don't just catch bugs; I refactor them into features. Ready for the next Gym Challenge\!"* ⚡🎮
-
------
-
-## 📊 League Stats & Badges
-
-\<div align="center"\>
-
-### 🏆 Hall of Fame Stats
-
-### 🔥 Training Streak
-
-### 🧪 Elemental Mastery (Languages)
-
-\</div\>
-
------
-
-## 🎒 The Battle Team (Tech Stack)
-
-### 🌊 Water/Psychic Type: Web Essentials
-
-```
-⭐ Next.js 15      ████████████ 95% (App Router Mastery)
-💠 React 19        ████████████ 95% (Legendary Status)
-🔷 TypeScript      ███████████  90% (Perfect Accuracy)
-✨ Tailwind CSS    ████████████ 95% (Shiny Variant)
+```txt
+> Initializing Pokédex...
+> Scanning trainer data...
+> Data acquired ✔
 ```
 
-### 🕊️ Flying/Steel Type: Mobile & Architecture
+---
 
-```
-🦋 Flutter         ██████████   85% (Clean Architecture Badge)
-🎯 Dart            ██████████   85% (High Velocity)
-📦 BLoC Pattern    ███████████  90% (Tactical Management)
-```
+### 🧑‍🔬 TRAINER PROFILE
 
-### ⛰️ Rock/Ground Type: Infrastructure & Logic
-
-```
-🟢 Node.js         ████████████ 90% (Solid Foundation)
-🐘 PostgreSQL      ██████████   85% (Heavy Hitter)
-🐹 Golang          ███████      70% (Leveling Up!)
-🤖 AI/RAG          ████████     80% (Hyper Beam Ready)
+```txt
+NAME        : Rachaphol Plookaom
+CLASS       : Full Stack Trainer
+RANK        : Mid-Level 🛡️
+REGION      : Bangkok, Thailand 📍
+SPECIALTY   : Frontend / Cross-Platform Evolution 🧬
+STATUS      : Active ⚡
 ```
 
------
+---
 
-## 🏅 Badges Unlocked
+### 🧬 ABILITIES
 
-```
-🌿 Biology Badge      - Ecology & Zoology knowledge integrated
-🎨 Pixel Badge        - 8-bit aesthetic & icon design mastery
-🌻 Sunflower Badge    - Design pivot specialist (KanVela evolution)
-📱 Medic Badge        - Developed "หมอใกล้บ้าน" mobile recovery tool
-🔮 Oracle Badge       - 20+ successful Tarot Card interpretations
-⚖️ Split-Bill Badge   - Survived the "P'Top & Friends" dining math
+```txt
+• Bug Handling        → Converts bugs into scalable features
+• UI Evolution        → Transforms design into production systems
+• Cross-Platform Sync → Web + Mobile architecture mastery
+• Rapid Learning      → Adapts to new tech quickly
 ```
 
------
+---
 
-## 🗺️ Current Quests & Gym Battles
+### 📊 BASE STATS
 
+```txt
+Frontend        ████████████ 95
+Architecture    ██████████   85
+Backend         ██████████   85
+Mobile Dev      █████████    80
+AI / RAG        ████████     80
 ```
-🔭 Main Quest:     Developing production-grade Next.js ecosystems
-🌱 Side Quest:     Mastering the "Kiddugorn" No-Auth scheduling ritual
-🤝 Co-op Mode:     Open for Link Battles (Collaborations) & Open Source trades
-💬 NPC Advice:     Ask me about React 19, BLoC, or retro game design!
-⚡ Fun Fact:       My design system is inspired by the NES Era! 🎮🌻
+
+---
+
+### 🎒 MOVESET (TECH STACK)
+
+```txt
+[PRIMARY MOVES]
+▶ Next.js 15        (App Router)
+▶ React 19          (Component Mastery)
+▶ TypeScript        (Type Safety)
+
+[SECONDARY MOVES]
+▶ Flutter           (Cross-Platform)
+▶ Dart              (Performance)
+▶ BLoC              (State Control)
+
+[UTILITY MOVES]
+▶ Node.js           (Server Logic)
+▶ PostgreSQL        (Data Storage)
+▶ Golang            (High Performance)
+▶ AI / RAG          (Intelligent Systems)
 ```
 
------
+---
 
-## 🤝 Connect with the Trainer
+### 🏅 BADGES
 
-\<div align="center"\>
+```txt
+✔ Biology Badge      → Analytical + structured thinking
+✔ Pixel Badge        → Retro UI specialist
+✔ Sunflower Badge    → Adaptive design mindset
+✔ Medic Badge        → Built "หมอใกล้บ้าน"
+✔ Oracle Badge       → Tarot interpretation (20+ cases)
+✔ Split-Bill Badge   → Real-world logic mastery
+```
 
-[](https://www.linkedin.com/in/rachaphol-plookaom)
-[](https://www.github.com/naiplawan)
-[](http://www.medium.com/@rachaphol.plo)
+---
 
-\</div\>
+### 🗺️ CURRENT QUEST LOG
 
------
+```txt
+MAIN QUEST
+→ Building scalable Next.js production systems
 
-\<div align="center"\>
+SIDE QUEST
+→ Developing lightweight scheduling tools
 
-### 🏟️ *"Gotta Code 'Em All\!"* 🏟️
+CO-OP MODE
+→ Available for collaborations & open source
 
-\</div\>
+NPC DIALOGUE
+→ Ask about React 19 / Flutter BLoC / System Design
+```
+
+---
+
+### 📡 CONTACT SIGNAL
+
+```txt
+EMAIL    : rachaphol.plo@gmail.com
+WEB      : https://react-resume-page.vercel.app/
+
+LINKEDIN : linkedin.com/in/rachaphol-plookaom
+GITHUB   : github.com/naiplawan
+MEDIUM   : medium.com/@rachaphol.plo
+```
+
+---
+
+```txt
+> Pokédex Note:
+"A developer who evolves systems efficiently.
+Known for turning complex problems into clean architecture."
+
+> Status: Ready for next Gym Battle ⚡
+```
